@@ -2,34 +2,31 @@
 
 Chicken Recipes from [Edamam](https://www.edamam.com/)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
-
 
 ```
 npm install
 ```
+
 ```
 npm install -g npx
 ```
 
 ### Installing
 
+Clone the repository with ssh key or https
 
-
-```
-Give the example
-```
-
-And repeat
+Clone with SSH key
 
 ```
-until finished
+git@github.com:aleciabenjamin/my_recipes.git
 ```
 
+Clone with HTTPS
+
+```
+https://github.com/aleciabenjamin/my_recipes.git
+```
 
 ## Running the tests
 
@@ -57,9 +54,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+- [Maven](https://maven.apache.org/) - Dependency Management
+- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
@@ -71,7 +68,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -81,6 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
